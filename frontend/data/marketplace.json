@@ -1,0 +1,220 @@
+{
+  "banner": [
+    {
+      "id": "ubuntu_24",
+      "os_name": "Ubuntu 24.04 LTS",
+      "tagline": "The world's most popular Linux — now faster than ever.",
+      "tag": "Recommended",
+      "icon": "🐧",
+      "image_path": "frontend/assets/banners/banner_ubuntu.png",
+      "gradient_start": "#0f2027",
+      "gradient_end": "#1a3a4a",
+      "accent": "#e95420",
+      "os_id": "ubuntu_24_04",
+      "primary_action": "Install",
+      "secondary_action": "Learn More"
+    },
+    {
+      "id": "fedora_41",
+      "os_name": "Fedora 41 Workstation",
+      "tagline": "Cutting-edge open-source platform for developers.",
+      "tag": "Popular",
+      "icon": "🎩",
+      "image_path": "frontend/assets/banners/banner_fedora.png",
+      "gradient_start": "#1a1a2e",
+      "gradient_end": "#16213e",
+      "accent": "#60a5fa",
+      "os_id": "fedora_40",
+      "primary_action": "Install",
+      "secondary_action": "Learn More"
+    },
+    {
+      "id": "kali_linux",
+      "os_name": "Kali Linux 2024",
+      "tagline": "The ultimate penetration testing distribution.",
+      "tag": "Security",
+      "icon": "🐉",
+      "image_path": "frontend/assets/banners/banner_kali.png",
+      "gradient_start": "#0d0d0d",
+      "gradient_end": "#1a0a2e",
+      "accent": "#00bfff",
+      "os_id": "kali_linux",
+      "primary_action": "Install",
+      "secondary_action": "Learn More"
+    },
+    {
+      "id": "debian_12",
+      "os_name": "Debian 12 Bookworm",
+      "tagline": "Rock-solid stability. Zero compromises.",
+      "tag": "Stable",
+      "icon": "🌀",
+      "image_path": "frontend/assets/banners/banner_debian.png",
+      "gradient_start": "#0d1117",
+      "gradient_end": "#1a2035",
+      "accent": "#a259f7",
+      "os_id": "debian_12",
+      "primary_action": "Install",
+      "secondary_action": "Learn More"
+    }
+  ],
+  "featured": [
+    {
+      "os_id": "ubuntu_24_04",
+      "os_name": "Ubuntu 24.04 LTS",
+      "icon": "🐧",
+      "image_path": "frontend/assets/banners/banner_ubuntu.png",
+      "desc": "The world's most popular Linux distro. Perfect for developers, students, and power users. Backed by Canonical with 5-year LTS support.",
+      "tags": "Dev, Learning, Desktop",
+      "difficulty": "Easy",
+      "accent": "#e95420",
+      "badge": "Most Popular"
+    },
+    {
+      "os_id": "kali_linux",
+      "os_name": "Kali Linux 2024.1",
+      "icon": "🐉",
+      "image_path": "frontend/assets/banners/banner_kali.png",
+      "desc": "The gold-standard penetration testing platform. Includes 600+ security tools used by professionals worldwide.",
+      "tags": "Security, Hacking, Pro",
+      "difficulty": "Hard",
+      "accent": "#00bfff",
+      "badge": "Security Pro"
+    },
+    {
+      "os_id": "fedora_40",
+      "os_name": "Fedora 41 Workstation",
+      "icon": "🎩",
+      "image_path": "frontend/assets/banners/banner_fedora.png",
+      "desc": "Cutting-edge Linux for developers. Ships the latest GNOME, kernel, and developer tools before any other major distro.",
+      "tags": "Dev, Latest, GNOME",
+      "difficulty": "Medium",
+      "accent": "#60a5fa",
+      "badge": "Developer Pick"
+    },
+    {
+      "os_id": "debian_12",
+      "os_name": "Debian 12 Bookworm",
+      "icon": "🌀",
+      "image_path": "frontend/assets/banners/banner_debian.png",
+      "desc": "The universal OS. Rock-solid stability, the foundation of Ubuntu, Mint, and hundreds of other distros. Trusted by servers worldwide.",
+      "tags": "Server, Stable, Enterprise",
+      "difficulty": "Medium",
+      "accent": "#a259f7",
+      "badge": "Enterprise Grade"
+    }
+  ],
+  "sections": [
+
+    {
+      "key": "recommended",
+      "label": "⭐  Recommended for You",
+      "subtitle": "Curated picks for beginners and developers",
+      "items": [
+        {
+          "os_id": "ubuntu_24_04",
+          "os_name": "Ubuntu 24.04 LTS",
+          "icon": "🐧",
+          "image_path": "frontend/assets/banners/banner_ubuntu.png",
+          "desc": "Best for beginners and developers. Huge community, excellent hardware support.",
+          "tags": "Dev, Learning",
+          "difficulty": "Easy",
+          "accent": "#e95420"
+        },
+        {
+          "os_id": "debian_12",
+          "os_name": "Debian 12 Bookworm",
+          "icon": "🌀",
+          "image_path": "frontend/assets/banners/banner_debian.png",
+          "desc": "Rock-solid stability, low resource usage. The foundation of many distros.",
+          "tags": "Server, Stable",
+          "difficulty": "Medium",
+          "accent": "#a259f7"
+        },
+        {
+          "os_id": "mint_21",
+          "os_name": "Linux Mint 21.3",
+          "icon": "🍃",
+          "image_path": "frontend/assets/banners/banner_mint.png",
+          "desc": "Windows-like UI, perfect for newcomers switching from Windows.",
+          "tags": "Desktop, Easy",
+          "difficulty": "Easy",
+          "accent": "#22c55e"
+        }
+      ]
+    },
+    {
+      "key": "popular",
+      "label": "🔥  Popular Templates",
+      "subtitle": "Most downloaded this month",
+      "items": [
+        {
+          "os_id": "fedora_40",
+          "os_name": "Fedora 41 Workstation",
+          "icon": "🎩",
+          "image_path": "frontend/assets/banners/banner_fedora.png",
+          "desc": "Cutting-edge Linux with latest GNOME and kernel. Developer favourite.",
+          "tags": "Dev, Latest",
+          "difficulty": "Medium",
+          "accent": "#60a5fa"
+        },
+        {
+          "os_id": "arch_linux",
+          "os_name": "Arch Linux 2024",
+          "icon": "🏹",
+          "image_path": "frontend/assets/banners/banner_arch.png",
+          "desc": "Roll your own — ultimate control and a bleeding-edge package repository.",
+          "tags": "Advanced, DIY",
+          "difficulty": "Hard",
+          "accent": "#1793d1"
+        },
+        {
+          "os_id": "kali_linux",
+          "os_name": "Kali Linux 2024.1",
+          "icon": "🐉",
+          "image_path": "frontend/assets/banners/banner_kali.png",
+          "desc": "Penetration testing & security research. 600+ pre-installed tools.",
+          "tags": "Security, Hacking",
+          "difficulty": "Hard",
+          "accent": "#00bfff"
+        }
+      ]
+    },
+    {
+      "key": "recent",
+      "label": "🆕  Recently Added",
+      "subtitle": "Fresh additions to the catalog",
+      "items": [
+        {
+          "os_id": "nixos_24",
+          "os_name": "NixOS 24.05",
+          "icon": "❄️",
+          "image_path": "frontend/assets/banners/banner_nixos.png",
+          "desc": "Reproducible, declarative Linux. Never break your system again.",
+          "tags": "Dev, Nix",
+          "difficulty": "Expert",
+          "accent": "#5277c3"
+        },
+        {
+          "os_id": "opensuse_tumbleweed",
+          "os_name": "openSUSE Tumbleweed",
+          "icon": "🦎",
+          "image_path": "frontend/assets/banners/banner_opensuse.png",
+          "desc": "Rolling release with YaST power tools. Enterprise features, community price.",
+          "tags": "Dev, Rolling",
+          "difficulty": "Medium",
+          "accent": "#73ba25"
+        },
+        {
+          "os_id": "alpine_3_19",
+          "os_name": "Alpine Linux 3.19",
+          "icon": "🏔️",
+          "image_path": "frontend/assets/banners/banner_alpine.png",
+          "desc": "Lightweight musl-based minimal distro. 8 MB base. Perfect for containers.",
+          "tags": "Server, Minimal",
+          "difficulty": "Medium",
+          "accent": "#0d597f"
+        }
+      ]
+    }
+  ]
+}

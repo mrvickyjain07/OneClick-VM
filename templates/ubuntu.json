@@ -1,0 +1,12 @@
+{
+    "os_id": "ubuntu_24_04",
+    "os_name": "Ubuntu 24.04.3 LTS Desktop",
+    "version": "24.04.4",
+    "iso_url": "https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso",
+    "ram_mb": 4096,
+    "cpu": 2,
+    "disk_gb": 30,
+    "vm_name_prefix": "Ubuntu_OneClick",
+    "hypervisor": "virtualbox",
+    "os_type_id": "Ubuntu_64"
+}

@@ -1,0 +1,12 @@
+{
+    "os_id": "fedora_40",
+    "os_name": "Fedora 40 Workstation Live",
+    "version": "40",
+    "iso_url": "https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.14.iso",
+    "ram_mb": 4096,
+    "cpu": 2,
+    "disk_gb": 25,
+    "vm_name_prefix": "Fedora_OneClick",
+    "hypervisor": "virtualbox",
+    "os_type_id": "Fedora_64"
+}
