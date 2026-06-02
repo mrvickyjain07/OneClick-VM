@@ -42,3 +42,13 @@ python main.py
 ## Troubleshooting
 - **VirtualBox not found**: Ensure `VBoxManage` is in your environment PATH.
 - **Download fails**: Check internet connection. The app supports resuming downloads.
+
+<img width="1919" height="1140" alt="Screenshot 2026-04-28 081327" src="https://github.com/user-attachments/assets/6005a35c-6079-449f-9a1f-fec1d8b96253" />
+<img width="1919" height="1142" alt="Screenshot 2026-04-28 081341" src="https://github.com/user-attachments/assets/b4508991-b963-49a2-b9be-ad361ed3d125" />
+<img width="1919" height="1139" alt="Screenshot 2026-04-28 081420" src="https://github.com/user-attachments/assets/67081e10-5f71-4ea2-af07-33522eda403a" />
+<img width="1911" height="1145" alt="Screenshot 2026-04-28 081713" src="https://github.com/user-attachments/assets/48e1c4b2-2f4a-480d-893f-6d93a9ad5751" />
+<img width="1919" height="1135" alt="Screenshot 2026-04-28 081506" src="https://github.com/user-attachments/assets/da3361f6-3ff0-44b0-8380-e680bedc40a6" />
+<img width="1919" height="1137" alt="Screenshot 2026-04-28 081457" src="https://github.com/user-attachments/assets/29dd0ffa-f9e9-4258-9c3c-2ce0f774f1ee" />
+<img width="1919" height="1137" alt="Screenshot 2026-04-28 081446" src="https://github.com/user-attachments/assets/85f28203-b121-4262-acfb-2dfdcf9c9694" />
+<img width="1919" height="1137" alt="Screenshot 2026-04-28 081432" src="https://github.com/user-attachments/assets/fac90dd0-a51c-4905-808b-e3954a5d755f" />
+
